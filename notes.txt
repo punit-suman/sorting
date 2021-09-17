@@ -1,0 +1,14 @@
+Best by time: Merge Sort - O(nlogn)
+Best by space: All, except Merge Sort
+
+Merge Sort vs Quick Sort
+- same average time
+- merge sort has better worst case time
+- merge sort takes O(n) extra space
+
+Selection sort vs Bubble sort
+- one or more swaps in selection sort, consecutive swapping in bubble sort iteratively
+
+Insertion sort vs Bubble sort
+- insertion - picking and transferring the next element at right position in the partially sorted array without disturbing sequence of other elements (one element at a time)
+- bubble - going through the whole array iteratively and swapping consecutive terms if not in order
